@@ -1,0 +1,8 @@
+name: unfinished-file
+author: jonathan
+description: |-
+  my stupid friend tried downloading this file before i shut my laptop down, what was he trying to do?
+provide:
+  - secret_archive.zip.crdownload
+flag:
+  file: flag.txt

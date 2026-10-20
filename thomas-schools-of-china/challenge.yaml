@@ -1,0 +1,10 @@
+name: thomas-schools-of-china
+author: jonathan
+description: |-
+  I infiltrated our rival counterpart in china and found this file on one of the computers... never heard of this filetype before... hm.
+  
+provide:
+  - chall.tsc
+
+flag:
+  file: flag.txt
